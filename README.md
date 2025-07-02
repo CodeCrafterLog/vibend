@@ -50,3 +50,8 @@ int main()
 	return 0;
 }
 ```
+
+### Examples
+* [<strong>Null-Type</strong>](https://github.com/CodeCrafterLog/Null-Type) is an application about typing that is made by Vibend
+
+If you have any examples for Vibend, feel free to add them.
